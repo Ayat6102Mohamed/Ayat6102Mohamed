@@ -14,7 +14,7 @@
             <a href="https://github.com/Ayat6102Mohamed">Visit My GitHub Profile</a>
         </div>
         <div class="linkedin-link">
-            <a href="(https://www.linkedin.com/in/ayat-mohamed-525943303)">Connect with me on LinkedIn</a>
+            <a href="https://www.linkedin.com/in/ayat-mohamed-525943303">Connect with me on LinkedIn</a>
         </div>
     </div>
 </body>
