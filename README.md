@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1>Welcome to My GitHub Profile!</h1>
-        <p>I'm [Ayat MOhamed], a passionate developer.</p>
+        <p>I'm Ayat MOhamed, I am a student at Faculty of Computer & Information Science - Ain Shams University SC department :).</p>
         <div class="github-link">
             <a href="https://github.com/Ayat6102Mohamed">Visit My GitHub Profile</a>
         </div>
