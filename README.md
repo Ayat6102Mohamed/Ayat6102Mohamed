@@ -10,9 +10,6 @@
     <div class="container">
         <h1>Welcome to My GitHub Profile!</h1>
         <p>I'm Ayat Mohamed, student at Faculty of Computer & Information Science - Ain Shams University SC department :).</p>
-        <div class="github-link">
-            <a href="https://github.com/Ayat6102Mohamed">Visit My GitHub Profile</a>
-        </div>
         <div class="linkedin-link">
             <a href="https://www.linkedin.com/in/ayat-mohamed-525943303">Connect with me on LinkedIn</a>
         </div>
